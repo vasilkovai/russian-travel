@@ -4,12 +4,11 @@
   padding: 0;
   margin-top: 33px;
   margin-bottom: 0;
-  font-size: 12px;
+  font-family: Inter;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
+  font-size: 12px;
   line-height: 18px;
-  letter-spacing: 0em;
-  text-align: left;
 }
 
 @media screen and (max-width: 737px) {
