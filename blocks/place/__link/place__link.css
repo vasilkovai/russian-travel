@@ -1,7 +1,7 @@
 .place__link {
   color: #fff;
   transition: opacity .1s linear;
-  font-family: Inter;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -10,12 +10,5 @@
 }
   
 .place__link:hover {
-  opacity: .5;
-}
-
-@media screen and (max-width: 1023px) {
-  .place__link{
-  font-size: 18px;
-  line-height: 22px;
-  }
+  opacity: .8;
 }

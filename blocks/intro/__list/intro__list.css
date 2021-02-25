@@ -11,10 +11,3 @@
   line-height: 18px;
 }
 
-@media screen and (max-width: 737px) {
-  .intro__list {
-    font-size: 12px;
-    line-height: 18px;
-    margin-top: 34px;
-  }
-}
